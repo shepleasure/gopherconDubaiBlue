@@ -146,7 +146,7 @@ Main components
 }
 
 .cd-scrolling-bg.cd-color-1 {
-  background-color: #f0f1e7;
+  background-color: #1D1E1F;
   color: #3d3d3d;
 }
 .cd-scrolling-bg.cd-color-2 {
@@ -154,7 +154,7 @@ Main components
   color: rgba(241,241,241,0.6); 
 }
 .cd-scrolling-bg.cd-color-3 {
-  background-color: #f0f1e7;
+  background-color: #1D1E1F;
   color: #3d3d3d;
 }
 .portfolio-item {
@@ -304,7 +304,7 @@ h2 {
 h3 {
   font-size: 28px;
   text-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
-  color:#3F1237;
+  color:#1D1E1F;
 }
 /*Footer*/
 .footer {
@@ -347,7 +347,7 @@ h3 {
   color: #78828D
 }
 .footer-bottom {
-  background: #3F1237;
+  background: #433863;
   border-top: 1px solid #DDDDDD;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -383,7 +383,7 @@ h3 {
   font-weight: bolder;
 }
 .speaker-twit {
-    color: #4099FF;
+    color: #524280;
     -webkit-transition: all .2s ease-in-out;
     -moz-transition: all .2s ease-in-out;
     transition: all .2s ease-in-out;
@@ -396,7 +396,7 @@ h3 {
   color: rgba(64, 153, 255, 0.43);
 } 
 .more {
-  background-color: rgb(63, 18, 55);
+  background-color: #1D1E1F;
   color: white;
   border: none;
   -webkit-transition: all .2s ease-in-out;
